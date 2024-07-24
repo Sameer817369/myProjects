@@ -1,0 +1,17 @@
+Name =sameer parajuli
+Contact =9861525921
+Address =anamnagar
+
+Product name =Razer Blade
+Quantity = 1
+Rate=$2000      
+Total Cost =2000
+
+Product name =XPS        
+Quantity = 1
+Rate=$1976      
+Total Cost =1976
+
+Total amount:3976
+shipping cost:$25
+Total cost with shipping:4001
